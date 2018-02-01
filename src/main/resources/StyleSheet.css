@@ -1,0 +1,13 @@
+node { 
+    fill-color: green;
+    size: 10px;
+    stroke-mode: plain;
+    stroke-color: black;
+    stroke-width: 1px;
+    /*z-index: 0;*/
+}
+
+node.important {
+    fill-color: red;
+    size: 15px;
+}
