@@ -2,7 +2,6 @@ import org.graphstream.graph.Graph;
 import org.graphstream.graph.Node;
 import org.graphstream.graph.implementations.DefaultGraph;
 import org.graphstream.stream.thread.ThreadProxyPipe;
-//import org.graphstream.ui.swingViewer.*;
 import org.graphstream.ui.view.Viewer;
 
 public class CustomLabel extends ThreadProxyPipe {
